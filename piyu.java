@@ -3,6 +3,7 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("Welcome to Java Programming!");
+        System.out.println("Pasindu Piyumal");
 
     }
 }
